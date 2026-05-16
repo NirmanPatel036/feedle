@@ -9,48 +9,48 @@ const testimonials = [
     id: 1,
     quote:
       "Feedle has completely transformed my morning routine. I no longer have to jump between five different apps to get my tech and business news. The curation is spot-on.",
-    author: "Sarah Chen",
-    role: "TECH ANALYST AT INNOVATE LABS",
+    author: "Pranavi Mada",
+    role: "FINANCE AT MAHINDRA",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah&backgroundColor=6B5B95",
   },
   {
     id: 2,
     quote:
       "As a software engineer, I need to stay on top of the latest releases and trends. Feedle's personalized feed learns exactly what I'm interested in and cuts out the fluff.",
-    author: "Marcus Rodriguez",
-    role: "SENIOR DEVELOPER AT NEXUS SOFT",
+    author: "Dev Bandhiya",
+    role: "SENIOR DEVELOPER AT ORACLE",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus&backgroundColor=88498F",
   },
   {
     id: 3,
     quote:
       "I love the bookmarking feature. I often come across long-form articles during the day that I want to read later in the evening. Feedle makes it seamless.",
-    author: "Emily Thompson",
-    role: "RESEARCH SCIENTIST AT HEALTHSYNC",
+    author: "Nirlep Patel",
+    role: "RESEARCH AT IIT-G",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily&backgroundColor=C55A7B",
   },
   {
     id: 4,
     quote:
       "The interface is so clean and distraction-free. It's refreshing to read news without constant pop-ups or irrelevant ads. Truly a premium experience.",
-    author: "David Kim",
-    role: "CHIEF CONTENT OFFICER AT MEDIAFLOW",
+    author: "Shivam Bagaria",
+    role: "CONTENT CREATOR AT TEXTILES",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=David&backgroundColor=4A5899",
   },
   {
     id: 5,
     quote:
       "I've tried every news aggregator out there, but Feedle is the only one that feels like it was built for the modern web. The animations and layout are beautiful.",
-    author: "Jennifer Walsh",
-    role: "UI/UX DESIGNER AT CREATIVE CORE",
+    author: "Harshini Soni",
+    role: "UI/UX DESIGNER AT LEO9 STUDIOS",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Jennifer&backgroundColor=6B7280",
   },
   {
     id: 6,
     quote:
       "Sharing breaking news with my team has never been easier. One click and the link is on X or WhatsApp. It's built for the way we actually consume news.",
-    author: "Robert Martinez",
-    role: "MARKETING DIRECTOR AT GLOBAL REACH",
+    author: "Deep Gupta",
+    role: "DIRECTOR AT IIMUN, HYDERABAD",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Robert&backgroundColor=7C3AED",
   },
 ];
