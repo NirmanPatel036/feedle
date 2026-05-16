@@ -14,7 +14,7 @@ export function Footer() {
         {/* Social Links */}
         <div className="flex items-center gap-6">
           <Link
-            href="https://linkedin.com"
+            href="https://linkedin.com/in/nirmanpatel"
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-400 transition-colors hover:text-white"
@@ -30,7 +30,7 @@ export function Footer() {
             </svg>
           </Link>
           <Link
-            href="https://twitter.com"
+            href="https://x.com/nirman_patel_09?s=21"
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-400 transition-colors hover:text-white"
