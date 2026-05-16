@@ -17,7 +17,7 @@ const testimonials = [
     id: 2,
     quote:
       "As a software engineer, I need to stay on top of the latest releases and trends. Feedle's personalized feed learns exactly what I'm interested in and cuts out the fluff.",
-    author: "Dev Bandhiya",
+    author: "Devika Bandhiya",
     role: "SENIOR DEVELOPER AT ORACLE",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus&backgroundColor=88498F",
   },
@@ -25,7 +25,7 @@ const testimonials = [
     id: 3,
     quote:
       "I love the bookmarking feature. I often come across long-form articles during the day that I want to read later in the evening. Feedle makes it seamless.",
-    author: "Nirlep Patel",
+    author: "Prachi Patel",
     role: "RESEARCH AT IIT-G",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily&backgroundColor=C55A7B",
   },
@@ -33,7 +33,7 @@ const testimonials = [
     id: 4,
     quote:
       "The interface is so clean and distraction-free. It's refreshing to read news without constant pop-ups or irrelevant ads. Truly a premium experience.",
-    author: "Shivam Bagaria",
+    author: "Shivani Bagaria",
     role: "CONTENT CREATOR AT TEXTILES",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=David&backgroundColor=4A5899",
   },
@@ -41,7 +41,7 @@ const testimonials = [
     id: 5,
     quote:
       "I've tried every news aggregator out there, but Feedle is the only one that feels like it was built for the modern web. The animations and layout are beautiful.",
-    author: "Harshini Soni",
+    author: "Harshil Soni",
     role: "UI/UX DESIGNER AT LEO9 STUDIOS",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Jennifer&backgroundColor=6B7280",
   },
@@ -49,7 +49,7 @@ const testimonials = [
     id: 6,
     quote:
       "Sharing breaking news with my team has never been easier. One click and the link is on X or WhatsApp. It's built for the way we actually consume news.",
-    author: "Deep Gupta",
+    author: "Deepika Gupta",
     role: "DIRECTOR AT IIMUN, HYDERABAD",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Robert&backgroundColor=7C3AED",
   },
